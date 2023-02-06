@@ -33,7 +33,7 @@
 
 <div align = "center">
     
-[![Gmail: Alex Garcia](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:garcialexco@gmail.com)](mailto:melvinaguilarhdz@gmail.com)&nbsp;
+[![Gmail: Alex Garcia](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:garcialexco@gmail.com)](mailto:garcialexco@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://https://www.frontendmentor.io/profile/garcialexco)](https://www.frontendmentor.io/profile/garcialexco)&nbsp;
 [![Linkedin: Alex Garcia](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-garcia-8902b1142/)](https://www.linkedin.com/in/alex-garcia-8902b1142/)
   
